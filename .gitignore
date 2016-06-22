@@ -1,0 +1,7 @@
+*.sqlite3
+*.db
+gemfiles/*.lock
+pkg
+rdoc
+
+.DS_Store
